@@ -9,6 +9,6 @@
     pip install -r requirements.txt
     ```
 ### usage
-    ```
+```
     python dex.py snap2list TRXB-2E6_77316955.csv 100.18908050422726 BTTB-D31
-    ```
+```
